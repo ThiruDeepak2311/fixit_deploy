@@ -24,8 +24,5 @@ gatherUsageStats = false
 [global]
 developmentMode = false
 
-[deprecation]
-showfileUploaderEncoding = false
-
 [runner]
 magicEnabled = true
