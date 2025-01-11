@@ -2,7 +2,7 @@
 
 A powerful web application for analyzing sentiment in text files using state-of-the-art NLP models. This application combines the summarization capabilities of Cohere with BERT-based sentiment analysis to provide accurate and insightful text analysis.
 
-## This repository is a streamlined version of Sentiment Analysis on Call Transcripts, modified to run entirely on Streamlit Cloud without FastAPI backend. The approach maintains the same robust analysis capabilities while simplifying the deployment architecture
+### This repository is a streamlined version of https://github.com/ThiruDeepak2311/ , modified to run entirely on Streamlit Cloud without FastAPI backend. The approach maintains the same robust analysis capabilities while simplifying the deployment architecture.
 
 ## 🌟 Features
 
